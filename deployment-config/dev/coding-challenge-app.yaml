@@ -31,7 +31,7 @@ spec:
   values:
     image:
       repository: meetveracity/coding-challenge-app
-      tag: development-09048340724137203ee82e99dcaa47e344a3e10f
+      tag: development-11800283d466b4f824e0daa5691dbbcca1c22cec
       pullPolicy: Always
     initImage:
       repository: meetveracity/coding-challenge-db-init
